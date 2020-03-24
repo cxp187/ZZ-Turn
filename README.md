@@ -14,6 +14,8 @@ Clover Configurator 替换U盘EFI文件工具：https://mackie100projects.alterv
 用balena写入镜像，操作步骤地址：https://blog.daliansky.net/，镜像下载：下拉blog，底部有镜像下载链接
 
 四、下载仓库中efi文件，并解压
+ 
+   下载地址：https://codeload.github.com/cxp187/ZZ-Turn/zip/master
 
 五、主板不设置，开机按F11，选择U盘第二个引导，进入PE系统，把下载好的efi文件替换掉wepe文件夹里面的efi文件夹
 
